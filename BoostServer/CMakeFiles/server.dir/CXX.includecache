@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubunturos/BoostServer/asio.cpp
+iostream
+-
+boost/asio.hpp
+-
+asio.h
+/home/ubunturos/BoostServer/asio.h
+
+/home/ubunturos/BoostServer/asio.h
+boost/asio.hpp
+-
+

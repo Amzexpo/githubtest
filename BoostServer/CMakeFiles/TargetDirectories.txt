@@ -1,0 +1,3 @@
+/home/ubunturos/BoostServer/CMakeFiles/rebuild_cache.dir
+/home/ubunturos/BoostServer/CMakeFiles/edit_cache.dir
+/home/ubunturos/BoostServer/CMakeFiles/server.dir
