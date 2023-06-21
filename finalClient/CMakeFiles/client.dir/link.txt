@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread  -rdynamic CMakeFiles/client.dir/client.cpp.o  -o client   -L/usr/local/lib:home/ubunturos/boost_1_82_0/stage/lib:/opt/ros/noetic/lib:home/ubunturos/boost_1_82_0/stage/lib  -Wl,-rpath,/usr/local/lib:home/ubunturos/boost_1_82_0/stage/lib:/opt/ros/noetic/lib:home/ubunturos/boost_1_82_0/stage/lib -ljson 

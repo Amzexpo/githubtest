@@ -1,0 +1,3 @@
+/home/ubunturos/boostwork/testclient/CMakeFiles/rebuild_cache.dir
+/home/ubunturos/boostwork/testclient/CMakeFiles/edit_cache.dir
+/home/ubunturos/boostwork/testclient/CMakeFiles/client.dir

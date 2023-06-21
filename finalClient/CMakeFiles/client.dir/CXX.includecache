@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubunturos/boostwork/testclient/client.cpp
+iostream
+-
+boost/asio.hpp
+-
+thread
+-
+json/json.h
+-
+json/value.h
+-
+json/reader.h
+-
+chrono
+-
+
