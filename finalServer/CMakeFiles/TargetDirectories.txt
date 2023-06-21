@@ -1,0 +1,3 @@
+/home/ubunturos/boostwork/sharedptrBoostServer/CMakeFiles/rebuild_cache.dir
+/home/ubunturos/boostwork/sharedptrBoostServer/CMakeFiles/edit_cache.dir
+/home/ubunturos/boostwork/sharedptrBoostServer/CMakeFiles/server.dir
